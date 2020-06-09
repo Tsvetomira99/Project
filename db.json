@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": "5ea2b9a9d9c1618573cd5c08",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300",
+      "age": "3243",
+      "name": "Tsvetomira Marinova",
+      "email": "admin@admin.com",
+      "password": "mypass"
+    },
+    {
+      "id": "5ea2b9a94a1b7d4eb605131e",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300",
+      "age": 40,
+      "name": "Vasil Ivanov",
+      "email": "admin@admin1.com",
+      "password": "mypass"
+    },
+    {
+      "id": "5ea2b9a939bbad67b304814f",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300",
+      "age": 24,
+      "name": "Daniela Slavova",
+      "email": "deanasalinas@reversus.com",
+      "password": 12345
+    },
+    {
+      "name": "ceca",
+      "email": "ceca199@abv.bg",
+      "password": "асдфгхйкл",
+      "age": "20",
+      "errorMessage": "",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "vxHCaUj"
+    },
+    {
+      "name": "ceca9",
+      "email": "admin@xn--admin1-6nf.com",
+      "password": "дфгхм",
+      "age": "20",
+      "errorMessage": "",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "JDJecK9"
+    }
+  ],
+  "notes": [
+    {
+      "title": "My first post",
+      "content": "Test note cointent",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Tsvetomira Marinova",
+      "date": "2020-05-29T10:08:06.832Z",
+      "id": 3,
+      "status": "Active"
+    },
+    {
+      "title": "Active status",
+      "content": "Active stat",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:28:07.388Z",
+      "id": 6
+    },
+    {
+      "title": "Status",
+      "content": "rwffdsafsd",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:28:37.448Z",
+      "status": "Pending",
+      "id": 7
+    },
+    {
+      "title": "Test 3",
+      "content": "fdsfsdaf",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:29:33.947Z",
+      "status": "Active",
+      "id": 8
+    },
+    {
+      "title": "Success status",
+      "content": "fasdfsdafd",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:34:49.062Z",
+      "status": "Active",
+      "id": 9
+    },
+    {
+      "title": "fasdfsda",
+      "content": "fsdafsd",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:38:44.852Z",
+      "status": "Active",
+      "id": 10
+    },
+    {
+      "title": "FInal test",
+      "content": "kgfjsdkglfdsgf",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:38:55.708Z",
+      "status": "Done",
+      "id": 11
+    },
+    {
+      "title": "Продукти",
+      "content": "СССССС",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Tsvetomira Marinova",
+      "date": "2020-06-09T11:40:50.960Z",
+      "status": "Active",
+      "id": 12
+    },
+    {
+      "title": "Раздел",
+      "content": "нздьфбзсдюс",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Tsvetomira Marinova",
+      "date": "2020-06-09T14:50:36.012Z",
+      "status": "Pending",
+      "id": 13
+    }
+  ]
+}
